@@ -1,0 +1,67 @@
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading{
+    text-align: center;
+    
+}
+/* form */
+#form{
+    width: 375px;
+    height: 525px;
+    margin-left: 350px;
+    margin-top: 65px;
+    background-color: gray;
+    padding-left: 30px;
+    border: solid 5px black;
+   }
+#l{
+    color: aliceblue;
+}
+#convert{
+    border-radius: 2px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* button styling */
+#convert{
+    padding: 5px;
+    border-radius: 5px;
+}
